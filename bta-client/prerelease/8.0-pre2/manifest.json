@@ -1,0 +1,15 @@
+{
+    "downloads": {
+        "client": {
+            "sha1": "2b29a77d599c68427cc5a9da22c859afccb645f3",
+            "size": 58391758,
+            "url": "https://downloads.betterthanadventure.net/bta-client/prerelease/v8.0-pre2/client.jar" 
+        },
+        "server": {
+            "sha1": "8d3fe1079e1474d52e0e6e94f1275f191a07ab9e",
+            "size": 32314500,
+            "url": "https://downloads.betterthanadventure.net/bta-server/prerelease/v8.0-pre2/server.jar"
+        }
+    },
+    "id": "v8.0-pre2"
+}
