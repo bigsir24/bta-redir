@@ -1,4 +1,11 @@
 {
+    "assetIndex": {
+        "id": "pre-1.6",
+        "sha1": "3d8e55480977e32acd9844e545177e69a52f594b",
+        "size": 74091,
+        "totalSize": 49505710,
+        "url": "https://launchermeta.mojang.com/v1/packages/3d8e55480977e32acd9844e545177e69a52f594b/pre-1.6.json"
+    },
     "downloads": {
         "client": {
             "sha1": "2b29a77d599c68427cc5a9da22c859afccb645f3",
