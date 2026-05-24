@@ -1,13 +1,4 @@
 {
-    "assetIndex": {
-        "id": "pre-1.6",
-        "sha1": "3d8e55480977e32acd9844e545177e69a52f594b",
-        "size": 74091,
-        "totalSize": 49505710,
-        "url": "https://launchermeta.mojang.com/v1/packages/3d8e55480977e32acd9844e545177e69a52f594b/pre-1.6.json"
-    },
-    "assets": "pre-1.6",
-    "complianceLevel": 0,
     "downloads": {
         "client": {
             "sha1": "2b29a77d599c68427cc5a9da22c859afccb645f3",
@@ -21,14 +12,7 @@
         }
     },
     "id": "v8.0-pre2",
-    "javaVersion": {
-        "component": "jre-legacy",
-        "majorVersion": 8
-    },
     "libraries": [],
-    "mainClass": "net.minecraft.launchwrapper.Launch",
-    "minecraftArguments": "${auth_player_name} ${auth_session} --gameDir ${game_directory} --assetsDir ${game_assets}",
-    "minimumLauncherVersion": 7,
     "releaseTime": "2011-07-07T22:00:00+00:00",
     "time": "2011-07-07T22:00:00+00:00",
     "type": "old_beta"
