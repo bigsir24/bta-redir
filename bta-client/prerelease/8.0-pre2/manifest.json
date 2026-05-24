@@ -11,7 +11,10 @@
             "url": "https://downloads.betterthanadventure.net/bta-server/prerelease/v8.0-pre2/server.jar"
         }
     },
-    "id": "v8.0-pre2",
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "minecraftArguments": "${auth_player_name} ${auth_session} --gameDir ${game_directory} --assetsDir ${game_assets}",
+    "minimumLauncherVersion": 7,
     "releaseTime": "2011-07-07T22:00:00+00:00",
-    "time": "2011-07-07T22:00:00+00:00"
+    "time": "2011-07-07T22:00:00+00:00",
+    "type": "old_beta"
 }
