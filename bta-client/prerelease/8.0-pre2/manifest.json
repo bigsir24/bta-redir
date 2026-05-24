@@ -25,6 +25,7 @@
         "component": "jre-legacy",
         "majorVersion": 8
     },
+    "libraries": [],
     "mainClass": "net.minecraft.launchwrapper.Launch",
     "minecraftArguments": "${auth_player_name} ${auth_session} --gameDir ${game_directory} --assetsDir ${game_assets}",
     "minimumLauncherVersion": 7,
